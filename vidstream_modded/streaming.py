@@ -1,5 +1,5 @@
 """
-This module implements the main functionality of vidstream.
+This module implements the main functionality of vidstream_modded.
 
 Author: Florian Dedov from NeuralNine
 YouTube: https://www.youtube.com/c/NeuralNine

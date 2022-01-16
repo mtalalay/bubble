@@ -1,5 +1,5 @@
-from vidstream import AudioSender
-from vidstream import AudioReceiver
+from vidstream_modded import AudioSender
+from vidstream_modded import AudioReceiver
 
 import threading
 import socket
